@@ -9,6 +9,9 @@ This project implements an e-commerce platform REST API using Spring Boot 3 and 
 - JDK 17
 - Swagger OpenAPI
 
+## Screenshots
+![Swagger OpenAPI](Images/Swagger.png)
+
 ## Endpoints
 
 ### 1. Create Product
@@ -156,8 +159,5 @@ This project implements an e-commerce platform REST API using Spring Boot 3 and 
     ```
     Product not found
     ```
-
-## Screenshots
-![Swagger OpenAPI Documentation](swagger.png)
 
 ---
